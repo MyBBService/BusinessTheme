@@ -7,6 +7,7 @@
 		<logo><![CDATA[dogbusiness/logo.png]]></logo>
 		<tablespace><![CDATA[4]]></tablespace>
 		<borderwidth><![CDATA[0]]></borderwidth>
+		<dlcid><![CDATA[14]]></dlcid>
 	</properties>
 	<stylesheets>
 		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1608"><![CDATA[.usercp_nav_item {
